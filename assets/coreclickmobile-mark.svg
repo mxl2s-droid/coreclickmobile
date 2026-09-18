@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" role="img" aria-labelledby="t d">
+  <title id="t">Coreclickmobile logo</title>
+  <desc id="d">A layered blue and turquoise letter C with a digital signal.</desc>
+  <defs>
+    <linearGradient id="a" x1="12" y1="14" x2="77" y2="78" gradientUnits="userSpaceOnUse"><stop stop-color="#29d9d0"/><stop offset=".48" stop-color="#24bcec"/><stop offset="1" stop-color="#0872ec"/></linearGradient>
+    <linearGradient id="b" x1="21" y1="72" x2="66" y2="22" gradientUnits="userSpaceOnUse"><stop stop-color="#041f4a"/><stop offset=".55" stop-color="#075ca8"/><stop offset="1" stop-color="#21d4d0"/></linearGradient>
+    <linearGradient id="c" x1="58" y1="58" x2="91" y2="26" gradientUnits="userSpaceOnUse"><stop stop-color="#0872ec"/><stop offset="1" stop-color="#31d8d2"/></linearGradient>
+  </defs>
+  <path d="M68 22A31 31 0 1 0 70 69" fill="none" stroke="url(#a)" stroke-width="14" stroke-linecap="round"/>
+  <path d="M57 29A23 23 0 1 0 58 70" fill="none" stroke="url(#b)" stroke-width="11" stroke-linecap="round"/>
+  <circle cx="65" cy="49" r="7" fill="url(#c)"/>
+  <rect x="76" y="41" width="9" height="9" rx="2.5" fill="#0798d8"/>
+  <rect x="85" y="31" width="8" height="8" rx="2.2" fill="#22c7c8"/>
+  <rect x="89" y="19" width="7" height="7" rx="2" fill="#32bcea"/>
+</svg>
