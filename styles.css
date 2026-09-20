@@ -2389,6 +2389,10 @@ textarea {
   transform: translate(4px, -4px);
 }
 
+.news-grid + .news-feature {
+  margin-top: 18px;
+}
+
 .news-visual {
   position: relative;
   min-height: 290px;

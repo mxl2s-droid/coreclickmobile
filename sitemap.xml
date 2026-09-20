@@ -4,6 +4,10 @@
   <url><loc>https://coreclickmobile.com/google-ads-operations-platform</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
   <url><loc>https://coreclickmobile.com/production</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://coreclickmobile.com/news</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://coreclickmobile.com/news/market-signal-budget-pacing</loc><changefreq>yearly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://coreclickmobile.com/news/localized-landing-page-continuity</loc><changefreq>yearly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://coreclickmobile.com/news/evidence-led-creative-refresh</loc><changefreq>yearly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://coreclickmobile.com/news/short-form-content-distribution</loc><changefreq>yearly</changefreq><priority>0.8</priority></url>
   <url><loc>https://coreclickmobile.com/news/controlled-automation-google-ads</loc><changefreq>yearly</changefreq><priority>0.7</priority></url>
   <url><loc>https://coreclickmobile.com/news/search-experiments-local-markets</loc><changefreq>yearly</changefreq><priority>0.7</priority></url>
   <url><loc>https://coreclickmobile.com/news/responsive-search-ads-creative</loc><changefreq>yearly</changefreq><priority>0.7</priority></url>
@@ -15,6 +19,10 @@
   <url><loc>https://coreclickmobile.com/zh/google-ads-operations-platform</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://coreclickmobile.com/zh/production</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://coreclickmobile.com/zh/news</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://coreclickmobile.com/zh/news/market-signal-budget-pacing</loc><changefreq>yearly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://coreclickmobile.com/zh/news/localized-landing-page-continuity</loc><changefreq>yearly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://coreclickmobile.com/zh/news/evidence-led-creative-refresh</loc><changefreq>yearly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://coreclickmobile.com/zh/news/short-form-content-distribution</loc><changefreq>yearly</changefreq><priority>0.8</priority></url>
   <url><loc>https://coreclickmobile.com/zh/news/controlled-automation-google-ads</loc><changefreq>yearly</changefreq><priority>0.7</priority></url>
   <url><loc>https://coreclickmobile.com/zh/news/search-experiments-local-markets</loc><changefreq>yearly</changefreq><priority>0.7</priority></url>
   <url><loc>https://coreclickmobile.com/zh/news/responsive-search-ads-creative</loc><changefreq>yearly</changefreq><priority>0.7</priority></url>
